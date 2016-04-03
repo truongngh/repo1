@@ -1,0 +1,6 @@
+[submodule "anotherrepo"]
+	path = anotherrepo
+	url = git@github.com:truongngh/repo2.git
+[submodule "justanotherrepo"]
+	path = justanotherrepo
+	url = ../repo2.git
