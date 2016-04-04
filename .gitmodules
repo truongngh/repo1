@@ -4,3 +4,7 @@
 [submodule "justanotherrepo"]
 	path = justanotherrepo
 	url = ../repo2.git
+[submodule "test"]
+	path = test
+	url = ../repo2.git
+	branch = branch1
