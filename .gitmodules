@@ -8,3 +8,7 @@
 	path = test
 	url = ../repo2.git
 	branch = branch1
+[submodule "test2"]
+	path = test2
+	url = ../repo2.git
+	branch = branch2
