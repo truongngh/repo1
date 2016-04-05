@@ -10,5 +10,5 @@
 	branch = branch1
 [submodule "test2"]
 	path = test2
-	url = git@github.com:truongngh1/repo2.git
+	url = ../repo2.git
 	branch = branch2
